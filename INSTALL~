@@ -1,9 +1,9 @@
-Building FreedomCoin
+Building SmallChange
 
 See doc/readme-qt.rst for instructions on building freedomcoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of FreedomCoin.
+implementation of SmallChange.
 
 See doc/build-*.txt for instructions on building freedomcoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of FreedomCoin.
+implementation of SmallChange.
